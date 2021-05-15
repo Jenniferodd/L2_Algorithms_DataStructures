@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// comment to Demo on Github
+// comment 2 to Demo on Github
 namespace L2_Algorithms_DataStructures
 {
   class Program
